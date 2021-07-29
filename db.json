@@ -1,7 +1,7 @@
 {
-  "garrage": [
+  "garage": [
     {
-      "garageId": "f48da692-3092-45fc-94ed-44e45d8ed457",
+      "Id": "f48da692-3092-45fc-94ed-44e45d8ed457",
       "garageName": "ParkBee(26802): ParkBee(26802): Botersloot",
       "name": "ParkBee(26802): Botersloot",
       "latitude": 51.922474,

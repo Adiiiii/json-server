@@ -74,6 +74,38 @@
           "extension": ".jpg"
         },
         {
+          "description": "Exit door",
+          "urls": [
+            {
+              "name": "Small",
+              "size": "300x225",
+              "url": "https://images.unsplash.com/photo-1473526750398-bfd02f485230?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFya2luZyUyMGV4aXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=225&q=60"
+            },
+            {
+              "name": "Large",
+              "size": "1200x900",
+              "url": "https://images.unsplash.com/photo-1473526750398-bfd02f485230?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFya2luZyUyMGV4aXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=900&q=20"
+            }
+          ],
+          "extension": ".jpg"
+        },
+        {
+          "description": "Pedesterian door",
+          "urls": [
+            {
+              "name": "Small",
+              "size": "300x225",
+              "url": "https://images.unsplash.com/photo-1511268976597-5434127f5d39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&h=225&q=80"
+            },
+            {
+              "name": "Large",
+              "size": "1200x900",
+              "url": "https://images.unsplash.com/photo-1511268976597-5434127f5d39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&h=900&q=30"
+            }
+          ],
+          "extension": ".jpg"
+        },
+        {
           "description": "Interior",
           "urls": [
             {

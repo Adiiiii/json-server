@@ -180,5 +180,17 @@
         ]
       }    
     } 
+  ],
+  "garage-amenities": [
+    {
+      "garageId": "f48da692-3092-45fc-94ed-44e45d8ed457",
+      "isIndoor": true,
+      "isOutdoor": false,
+      "maximumHeadSpaceInMeters": 1.7,
+      "widthRestrictionInMeters": 5,
+      "wheelChairAccessible": true,
+      "evCharging": true,
+      "manned": false
+    }
   ]
 }

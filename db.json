@@ -178,8 +178,8 @@
             ]
           }
         ]
-      }    
-    } 
+      }
+    }
   ],
   "garage-amenities": [
     {
@@ -195,8 +195,15 @@
   ],
   "garage-availablity": [
     {
-      "id":"f48da692-3092-45fc-94ed-44e45d8ed457",
+      "id": "f48da692-3092-45fc-94ed-44e45d8ed457",
       "availableSpaces": 8
+    }
+  ],
+  "start-parking": [],
+  "stop-parking": [
+    {
+      "id": "1",
+      "transactionAmount": "20"
     }
   ]
 }
